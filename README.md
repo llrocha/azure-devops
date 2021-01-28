@@ -19,6 +19,11 @@ Azure<br>
 [Implement a code workflow in your build pipeline by using Git and GitHub](https://docs.microsoft.com/pt-br/learn/modules/implement-code-workflow/?WT.mc_id=udacity_learn-wwl)<br>
 [Manter um repositório seguro com as melhores práticas do GitHub](https://docs.microsoft.com/pt-br/learn/modules/maintain-secure-repository-github/?WT.mc_id=udacity_learn-wwl)<br>
 
+SRE<br>
+[SRE Google](https://sre.google/)<br>
+[SRE Google Book](https://sre.google/workbook/table-of-contents/)<br>
+
+
 Python<br>
 [python ssh](https://www.devdungeon.com/content/python-ssh-tutorial)<br>
 [Click](https://click.palletsprojects.com/en/7.x/)
