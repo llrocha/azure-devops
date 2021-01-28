@@ -4,6 +4,7 @@
 
 Yes, changed from Cloud Shell
 
+![CI](https://github.com/llrocha/azure-devops/workflows/CI/badge.svg)
 
 Azure<br>
 [Pin all dependencies](https://www.promptworks.com/blog/pin-all-dependencies/)
